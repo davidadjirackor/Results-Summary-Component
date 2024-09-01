@@ -193,7 +193,7 @@ body{
 .main-card{
   max-width: 550px;
   border: 1px solid white;
-  margin: 200px auto;
+  margin: 100px auto;
   background-color: white;
   display:flex;
   border-radius: 20px;
